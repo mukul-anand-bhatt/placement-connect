@@ -1,0 +1,9 @@
+name = "backend"
+main = "src/index.ts"
+compatibility_date = "2024-10-20"
+compatibility_flags = [ "nodejs_compat" ]
+
+# [vars]
+JWT_SECRET = "kuchbhi"
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNjA0ZTUwMGEtYmU3NC00MmQ2LTliYzItMGE1ZTExMDVlZGNjIiwidGVuYW50X2lkIjoiYzZlZGQzZTVjNmJiNzBiZmNhYTZkODNiOThiYjE2ZWE0YjgyYjY1YjQ0ZjU3OGY2MDkwN2QwM2Q4NGU0NzQzYiIsImludGVybmFsX3NlY3JldCI6ImMwYzIzOTRlLWQ1OWItNDEzNC1iZGI3LWFhODcxZDI2MTk0OSJ9.jRHEgsO-a6VXL8Hf-1UvjoourXqBlv05IGmcZAirYKc"
+
